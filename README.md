@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nget1&label=Profile%20views&color=0e75b6&style=flat" alt="nget1" /> </p>
 
-- 🔭 I’m currently working on [nget stealer](discord.gg/nget)
+- ⚡ I’m currently working on [nget stealer](discord.gg/nget)
 
-- 🌱 I’m currently learning **Java Script**
+- ⚡ I’m currently learning **Java Script**
 
-- 👨‍💻 All of my projects are available at [https://intrusion.lol/](https://intrusion.lol/)
+- ⚡ All of my projects are available at [https://intrusion.lol/](https://intrusion.lol/)
 
-- 💬 Ask me about **Python C# HTML CSS**
+- ⚡ Ask me about **Python C# HTML CSS**
 
-- 📫 How to reach me **discord.gg/nget**
+- ⚡ How to reach me **discord.gg/nget**
 
 - ⚡ Fun fact **im STRAIGHT**
 
