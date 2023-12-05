@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nget</h1>
-<img src="[https://komarev.com/ghpvc/?username=nget1&label=Profile%20views&color=0e75b6&style=flat](https://cdn.discordapp.com/attachments/1179997780014534736/1181715439181627533/image0.gif?ex=65821143&is=656f9c43&hm=cee967430b222553a2dafcee186817e60f0c445de5320d7918f0dc79ce75d727&)" alt="nget1"/>
+<picture> <img align="right" src="https://cdn.discordapp.com/attachments/1179997780014534736/1181715439181627533/image0.gif?ex=65821143&is=656f9c43&hm=cee967430b222553a2dafcee186817e60f0c445de5320d7918f0dc79ce75d727&" width = 250px></picture>
 
 <p align="left"> </p>
 
