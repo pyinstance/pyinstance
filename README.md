@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Coma</h1>
-<picture> <img align="right" src="" width = 250px></picture>
+
 
 <p align="left"> </p>
 
-- ⚡ I’m currently working on [nget stealer](discord.gg/nget)
+- ⚡ I’m currently working on [Crypt Password Manager](https://discord.gg/6uZTvaBDN8)
 
 - ⚡ I’m currently learning **Java Script**
 
@@ -11,7 +11,7 @@
 
 - ⚡ Ask me about **Python C# HTML CSS**
 
-- ⚡ How to reach me **discord.gg/nget**
+- ⚡ How to reach me **[discord](https://discord.gg/6uZTvaBDN8)**
 
 - ⚡ Fun fact **im STRAIGHT**
 
