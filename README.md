@@ -3,7 +3,7 @@
 
 <p align="left"> </p>
 
-- ⚡ I’m currently working on [Crypt Password Manager](https://discord.gg/6uZTvaBDN8)
+- ⚡ I’m currently working on [SCOM Gaurd AV](https://discord.gg/6uZTvaBDN8)
 
 - ⚡ I’m currently learning **Java Script**
 
