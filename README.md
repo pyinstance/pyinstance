@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Coma</h1>
+<h1 align="center">Hi 👋, I'm Veal</h1>
 
 
 <p align="left"> </p>
 
-- ⚡ I’m currently working on [SCOM Gaurd AV](https://discord.gg/6uZTvaBDN8)
+- ⚡ I’m currently working on [SCOM Gaurd AV](https://discord.gg/edevs)
 
 - ⚡ I’m currently learning **Java Script**
 
@@ -11,7 +11,7 @@
 
 - ⚡ Ask me about **Python C# HTML CSS**
 
-- ⚡ How to reach me **[discord](https://discord.gg/6uZTvaBDN8)**
+- ⚡ How to reach me **[discord](https://discord.gg/edevs)**
 
 - ⚡ Fun fact **im STRAIGHT**
 
