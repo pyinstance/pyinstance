@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./Header.png)
 
 <h1 align="center">realveal</h1>
 <a href="https://github.com/realveal"></a>
@@ -19,4 +19,4 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=realveal&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
 
-![Footer](./footer.png)
+![Footer](./Footer.png)
