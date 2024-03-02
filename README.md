@@ -1,27 +1,22 @@
-<h1 align="center">Hi 👋, I'm Veal</h1>
+![Header](./header.png)
 
+<h1 align="center">realveal</h1>
+<a href="https://github.com/realveal"></a>
 
-<p align="left"> </p>
-
-- ⚡ I’m currently working on [SCOM Gaurd AV](https://discord.gg/edevs)
-
-- ⚡ I’m currently learning **Java Script**
-
-- ⚡ All of my projects are available at [https://intrusion.lol/](https://intrusion.lol/)
-
-- ⚡ Ask me about **Python C# HTML CSS**
-
-- ⚡ How to reach me **[discord](https://discord.gg/edevs)**
-
-- ⚡ Fun fact **im STRAIGHT**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/.gg/nget" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".gg/nget" height="30" width="40" /></a>
+<p align="center">
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=realveal&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/realveal?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <img height="25" src="https://img.shields.io/github/stars/realveal?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
+<h4 align="center">Current Known Languages: (best ➜ least)</h5>
+<p align="center">
+           <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs,"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realcoma&show_icons=true&locale=en" alt="nget1" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=realveal&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
 
+![Footer](./footer.png)
