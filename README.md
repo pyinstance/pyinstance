@@ -1,7 +1,7 @@
 ![Header](./Header.png)
 
-<h1 align="center">Resentful</h1>
-<a href="https://github.com/realveal"></a>
+<h1 align="center">pyinstance</h1>
+<a href="https://github.com/pyinstance"></a>
 
 <p align="center">
   <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=realveal&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
