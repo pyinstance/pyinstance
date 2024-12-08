@@ -4,9 +4,9 @@
 <a href="https://github.com/pyinstance"></a>
 
 <p align="center">
-  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=realveal&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
-  <img height="25" src="https://img.shields.io/github/followers/realveal?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
-  <img height="25" src="https://img.shields.io/github/stars/realveal?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=pyinstance&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/pyinstance?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <img height="25" src="https://img.shields.io/github/stars/pyinstance?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p>
 <h4 align="center">Current Known Languages: (best ➜ least)</h5>
 <p align="center">
