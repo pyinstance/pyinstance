@@ -1,8 +1,5 @@
 ![Header](./Header.png)
-
 <h1 align="center">pyinstance</h1>
-<a href="https://github.com/pyinstance"></a>
-
 <p align="center">
   <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=pyinstance&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
   <img height="25" src="https://img.shields.io/github/followers/pyinstance?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
