@@ -17,11 +17,11 @@
 <h3 align="center">Languages & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,ruby,rust,html,css&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,arch,atom,aws,c,cs,cpp,rust,ruby"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASM-Low%20Level-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ASM-High%20Level-black?style=flat-square"/>
 </p>
 
 ---
