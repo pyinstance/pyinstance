@@ -10,11 +10,8 @@
   <img height="25" src="https://img.shields.io/github/stars/pyinstance?color=f429ff&style=for-the-badge&logo=github&label=Stars"/>
 </p>
 
----
 
 ### <p align="center">Minimal • Reverse Engineering • Security Research • Development</p>
-
----
 
 <h3 align="center">Languages & Technologies</h3>
 
@@ -26,15 +23,6 @@
   <img src="https://img.shields.io/badge/ASM-High%20Level-black?style=flat-square"/>
 </p>
 
----
-
-<h3 align="center">Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyinstance&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true"/>
-</p>
-
----
 
 <p align="center">
   <sub>Reverse Engineering • Security Research • High-Level Development</sub>
