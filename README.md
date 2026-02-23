@@ -11,7 +11,7 @@
 </p>
 
 
-### <p align="center">Minimal • Reverse Engineering • Security Research • Development</p>
+### <p align="center">Reverse Engineering • Security Research • Development</p>
 
 <h3 align="center">Languages & Technologies</h3>
 
