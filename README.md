@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <sub>Reverse Engineering • Security Research • Low-Level Development</sub>
+  <sub>Reverse Engineering • Security Research • High-Level Development</sub>
 </p>
 
 ![Footer](./Footer.png)
