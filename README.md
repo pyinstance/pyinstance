@@ -2,7 +2,7 @@
   <img src="./Header.png"/>
 </p>
 
-<h1 align="center">RBP-pyinstance</h1>
+<h1 align="center">Conspiracy-pyinstance</h1>
 
 <p align="center">
   <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=pyinstance&countColor=%23006EFF" alt="Profile Views"/>
